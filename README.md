@@ -1,5 +1,6 @@
 # DataStructures-Using-C
 DS with C.
 I'm Naveen Krishna B ,Under graduated(Electronics and Communication) from GITAM University,Vizag.
-This is my first repository.So,hope someone checks this out and notify the mistakes and make necessary corrections.
+This is my first repository.
+Please notify me about the Errors.
 Thanking you.
